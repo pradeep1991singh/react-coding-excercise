@@ -1,4 +1,196 @@
 {
+  "16343": {
+    "name": "Mr. Houston",
+    "category": "Black Plates",
+    "itemId": 16343,
+    "imageUrl": "https://presto-resources.s3.amazonaws.com/android__menueditor_images__/images/dynamic/ZED-rqJUEeqam4yFkDJJSQ.jpg",
+    "price": 550,
+    "tax": 8.25,
+    "available": true,
+    "description": "Sweet kani, mango, avocado inside, topped with lobster salad and crunchy",
+    "modifierGroups": {
+      "2655": {
+        "groupId": 2655,
+        "name": "Would you like to customize anything?",
+        "description": null,
+        "parentMenuItemId": 16343,
+        "minimumSelections": 0,
+        "maximumSelections": 7,
+        "defaultSelectedItemIds": [],
+        "customRequestAllowed": false,
+        "children": {
+          "16344": {
+            "name": "Avocado",
+            "category": "modifier",
+            "itemId": 16344,
+            "imageUrl": null,
+            "price": 100,
+            "tax": 8.25,
+            "available": true,
+            "description": "",
+            "modifierGroups": {},
+            "timePeriods": [
+              {
+                "price": null,
+                "description": null,
+                "daysOfWeek": [],
+                "period": [],
+                "alwaysAvailable": true
+              }
+            ]
+          },
+          "16348": {
+            "name": "Sauce on Side",
+            "category": "modifier",
+            "itemId": 16348,
+            "imageUrl": null,
+            "price": 0,
+            "tax": 8.25,
+            "available": true,
+            "description": "",
+            "modifierGroups": {
+              "2655": {
+                "groupId": 2655,
+                "name": "What sauce do you want on the side?",
+                "description": null,
+                "parentMenuItemId": 16343,
+                "minimumSelections": 0,
+                "maximumSelections": 7,
+                "defaultSelectedItemIds": [],
+                "customRequestAllowed": false,
+                "children": {
+                  "1": {
+                    "name": "Sauce #1",
+                    "category": "modifier",
+                    "itemId": 1,
+                    "imageUrl": null,
+                    "price": 0,
+                    "tax": 8.25,
+                    "available": true,
+                    "description": "",
+                    "modifierGroups": {}
+                  },
+                  "2": {
+                    "name": "Sauce #2",
+                    "category": "modifier",
+                    "itemId": 2,
+                    "imageUrl": null,
+                    "price": 0,
+                    "tax": 8.25,
+                    "available": true,
+                    "description": "",
+                    "modifierGroups": {}
+                  },
+                  "3": {
+                    "name": "Special Sauce #3",
+                    "category": "modifier",
+                    "itemId": 2,
+                    "imageUrl": null,
+                    "price": 0,
+                    "tax": 8.25,
+                    "available": true,
+                    "description": "",
+                    "modifierGroups": {
+                      "groupId": 2655,
+                      "name": "How do you want this sauce",
+                      "description": null,
+                      "parentMenuItemId": 16343,
+                      "minimumSelections": 0,
+                      "maximumSelections": 7,
+                      "defaultSelectedItemIds": [],
+                      "customRequestAllowed": false,
+                      "children": {
+                        "4": {
+                          "name": "Regular",
+                          "category": "modifier",
+                          "itemId": 4,
+                          "imageUrl": null,
+                          "price": 0,
+                          "tax": 8.25,
+                          "available": true,
+                          "description": "",
+                          "modifierGroups": {}
+                        },
+                        "5": {
+                          "name": "Spicy",
+                          "category": "modifier",
+                          "itemId": 5,
+                          "imageUrl": null,
+                          "price": 0,
+                          "tax": 8.25,
+                          "available": true,
+                          "description": "",
+                          "modifierGroups": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "timePeriods": [
+              {
+                "price": null,
+                "description": null,
+                "daysOfWeek": [],
+                "period": [],
+                "alwaysAvailable": true
+              }
+            ]
+          },
+          "16349": {
+            "name": "Soy Paper",
+            "category": "modifier",
+            "itemId": 16349,
+            "imageUrl": null,
+            "price": 100,
+            "tax": 8.25,
+            "available": true,
+            "description": "",
+            "modifierGroups": {},
+            "timePeriods": [
+              {
+                "price": null,
+                "description": null,
+                "daysOfWeek": [],
+                "period": [],
+                "alwaysAvailable": true
+              }
+            ]
+          },
+          "16350": {
+            "name": "Jalapeno",
+            "category": "modifier",
+            "itemId": 16350,
+            "imageUrl": null,
+            "price": 100,
+            "tax": 8.25,
+            "available": true,
+            "description": "",
+            "modifierGroups": {},
+            "timePeriods": [
+              {
+                "price": null,
+                "description": null,
+                "daysOfWeek": [],
+                "period": [],
+                "alwaysAvailable": true
+              }
+            ]
+          }
+        }
+      }
+    },
+    "timePeriods": [
+      {
+        "price": null,
+        "description": null,
+        "daysOfWeek": [],
+        "period": [],
+        "alwaysAvailable": true
+      }
+    ]
+  },
   "16295": {
     "name": "Pepsi",
     "category": "Beverages",
