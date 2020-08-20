@@ -1,0 +1,8 @@
+.product-card fieldset label, .product-card fieldset input {
+  display: block;
+}
+
+fieldset .item {
+  display: inline-block;
+  margin-right: 10px;
+}
